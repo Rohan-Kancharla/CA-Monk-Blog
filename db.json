@@ -1,0 +1,40 @@
+{
+    "blogs": [
+        {
+            "id": "1",
+            "title": "Future of Fintech",
+            "category": [
+                "FINANCE",
+                "TECH"
+            ],
+            "description": "Exploring how AI and blockchain are reshaping financial services",
+            "date": "2026-01-11T09:12:45.120Z",
+            "coverImage": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg",
+            "content": "The financial technology landscape is rapidly evolving. From decentralized finance (DeFi) to AI-driven personal banking, the way we manage money is changing. This blog explores key trends including blockchain adoption, robo-advisors, and the democratization of investment opportunities."
+        },
+        {
+            "id": "2",
+            "title": "React Server Components",
+            "category": [
+                "TECH",
+                "DEVELOPMENT"
+            ],
+            "description": "A deep dive into the next generation of React architecture.",
+            "date": "2026-01-14T14:22:00.000Z",
+            "coverImage": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg",
+            "content": "React Server Components allow developers to build applications that span the server and client. This introduces a new mental model for building hybrid applications that leverage the best of both worlds. We will discuss the benefits, trade-offs, and implementation strategies."
+        },
+        {
+            "id": "3",
+            "title": "Sustainable Living",
+            "category": [
+                "LIFESTYLE",
+                "ENVIRONMENT"
+            ],
+            "description": "Simple steps to reduce your carbon footprint every day.",
+            "date": "2026-01-10T08:30:00.000Z",
+            "coverImage": "https://images.pexels.com/photos/6045167/pexels-photo-6045167.jpeg",
+            "content": "Sustainability isn't just a buzzword; it's a necessity. In this post, we share actionable tips for minimizing waste, conserving energy, and making eco-friendly choices in your daily life. Small changes can add up to a significant global impact."
+        }
+    ]
+}
